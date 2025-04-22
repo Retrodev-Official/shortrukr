@@ -19,7 +19,7 @@ body {
 
 /* Background logo */
 .overlay {
-  background-image: url('images/logo.png');
+  background-image: url('logo.png'); /* No folder path, just the filename */
   background-repeat: no-repeat;
   background-position: center;
   background-size: 450px;
